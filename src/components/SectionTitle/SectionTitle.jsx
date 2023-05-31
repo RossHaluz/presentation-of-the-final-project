@@ -8,7 +8,7 @@ const SectionTitle = ({ num, children }) => {
   return (
     <SectionWrapper>
       <SectionNumber>{num}</SectionNumber>
-      <Title>{children}</Title>;
+      <Title>{children}</Title>
     </SectionWrapper>
   );
 };

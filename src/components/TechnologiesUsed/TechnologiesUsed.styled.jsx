@@ -7,7 +7,7 @@ export const TechnologiesUsedContainer = styled.div`
 export const TechnologiesUsedWrapper = styled.div`
   display: flex;
   gap: 20px;
-  justify-content: space-between;
+
   margin-top: 80px;
 `;
 

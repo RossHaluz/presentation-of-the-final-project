@@ -7,6 +7,7 @@ import ProjectPurpose from 'components/ProjectPurpose';
 import UserPersona from 'components/UserPersona';
 import TechnologiesUsed from 'components/TechnologiesUsed';
 import OurTeam from 'components/OurTeam';
+import Footer from 'components/Footer';
 
 const App = () => {
   return (
@@ -33,6 +34,7 @@ const App = () => {
       <Section>
         <OurTeam />
       </Section>
+      <Footer />
     </>
   );
 };
