@@ -27,7 +27,7 @@ export const ProjectPurposeList = styled.ul`
   display: flex;
   flex-direction: column;
   gap: 49px;
-  margin-top: 145px;
+  margin-top: 80px;
 `;
 
 export const ProjectPurposeItem = styled.li`

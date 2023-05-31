@@ -4,6 +4,9 @@ import Hero from '../Hero';
 import { Section } from './App.styled';
 import ProjectDetails from 'components/ProjectDetails';
 import ProjectPurpose from 'components/ProjectPurpose';
+import UserPersona from 'components/UserPersona';
+import TechnologiesUsed from 'components/TechnologiesUsed';
+import OurTeam from 'components/OurTeam';
 
 const App = () => {
   return (
@@ -20,6 +23,15 @@ const App = () => {
       </Section>
       <Section>
         <ProjectPurpose />
+      </Section>
+      <Section>
+        <UserPersona />
+      </Section>
+      <Section>
+        <TechnologiesUsed />
+      </Section>
+      <Section>
+        <OurTeam />
       </Section>
     </>
   );
