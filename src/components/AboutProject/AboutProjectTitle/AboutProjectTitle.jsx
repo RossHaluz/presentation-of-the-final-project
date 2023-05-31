@@ -1,17 +1,10 @@
-import {
-  AboutProjectWrapper,
-  AboutProjectContainer,
-  AboutProjectNumber,
-  Title,
-} from './AboutProjectTitle.styled';
+import SectionTitle from 'components/SectionTitle';
+import { AboutProjectContainer } from './AboutProjectTitle.styled';
 
 const AboutProjectTitle = () => {
   return (
     <AboutProjectContainer>
-      <AboutProjectWrapper>
-        <AboutProjectNumber>01</AboutProjectNumber>
-        <Title>About project</Title>;
-      </AboutProjectWrapper>
+      <SectionTitle num="01">About project</SectionTitle>
     </AboutProjectContainer>
   );
 };
