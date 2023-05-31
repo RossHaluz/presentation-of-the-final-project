@@ -5,7 +5,7 @@ const AboutProjectImg = () => {
   return (
     <>
       <Elips></Elips>
-      <Img src={about_bg} alt="About bg" width="1047" height="800" />;
+      <Img src={about_bg} alt="About bg" width="950" height="750" />;
     </>
   );
 };

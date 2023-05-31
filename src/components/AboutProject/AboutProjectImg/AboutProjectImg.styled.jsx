@@ -2,8 +2,8 @@ import styled from '@emotion/styled';
 
 export const Img = styled.img`
   position: absolute;
-  width: 1047px;
-  height: 800px;
+  width: 950px;
+  height: 750px;
   left: 580px;
   top: 50px;
 `;
