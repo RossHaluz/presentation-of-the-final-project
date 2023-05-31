@@ -3,6 +3,7 @@ import AppBar from '../AppBar';
 import Hero from '../Hero';
 import { Section } from './App.styled';
 import ProjectDetails from 'components/ProjectDetails';
+import ProjectPurpose from 'components/ProjectPurpose';
 
 const App = () => {
   return (
@@ -16,6 +17,9 @@ const App = () => {
       </Section>
       <Section>
         <ProjectDetails />
+      </Section>
+      <Section>
+        <ProjectPurpose />
       </Section>
     </>
   );

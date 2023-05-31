@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const ProjectDetailsWrapper = styled.div`
-  position: absolute;
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 64px;
