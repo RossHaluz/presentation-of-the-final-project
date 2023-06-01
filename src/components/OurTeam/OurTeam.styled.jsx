@@ -9,7 +9,6 @@ export const OurTeamList = styled.ul`
   flex-wrap: wrap;
   gap: 15px;
   margin-top: 48px;
-  justify-content: space-between;
 `;
 
 export const OurTeamItem = styled.li`
