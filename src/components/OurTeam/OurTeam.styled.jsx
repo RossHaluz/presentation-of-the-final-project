@@ -1,5 +1,9 @@
 import styled from '@emotion/styled';
 
+export const Img = styled.img`
+  height: 422px;
+`;
+
 export const OurTeamList = styled.ul`
   display: flex;
   flex-wrap: wrap;
