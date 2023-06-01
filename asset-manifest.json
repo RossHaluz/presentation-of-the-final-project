@@ -1,19 +1,28 @@
 {
   "files": {
     "main.css": "/presentation-of-the-final-project/static/css/main.9a1e7a7d.css",
-    "main.js": "/presentation-of-the-final-project/static/js/main.f8b625c6.js",
+    "main.js": "/presentation-of-the-final-project/static/js/main.872c916a.js",
+    "static/media/user7.png": "/presentation-of-the-final-project/static/media/user7.b0363c93a856d9ac83ff.png",
     "static/media/person.png": "/presentation-of-the-final-project/static/media/person.764132c1b79f50b69e7b.png",
     "static/media/hero-bg.png": "/presentation-of-the-final-project/static/media/hero-bg.426a05f1694494b36c32.png",
     "static/media/pug.png": "/presentation-of-the-final-project/static/media/pug.4d57aea1145d65d6abe4.png",
+    "static/media/user9.jpg": "/presentation-of-the-final-project/static/media/user9.5feb3c27272f5f70d071.jpg",
     "static/media/about-bg.png": "/presentation-of-the-final-project/static/media/about-bg.ab94d27c68d491bebb69.png",
-    "static/media/mamber1.png": "/presentation-of-the-final-project/static/media/mamber1.6a65f517f59186ac63f1.png",
+    "static/media/user3.jpg": "/presentation-of-the-final-project/static/media/user3.3202c4e6fe7b7ad83f07.jpg",
+    "static/media/user1.jpg": "/presentation-of-the-final-project/static/media/user1.ee6690752915706612ed.jpg",
     "static/media/footer-dog.png": "/presentation-of-the-final-project/static/media/footer-dog.c74fdb69b27920eca3b9.png",
+    "static/media/user8.jpg": "/presentation-of-the-final-project/static/media/user8.d3bae484924db20e81c0.jpg",
+    "static/media/user2.jpg": "/presentation-of-the-final-project/static/media/user2.5b6f4366f619976fc458.jpg",
+    "static/media/user10.jpg": "/presentation-of-the-final-project/static/media/user10.952aa75a791568abbb75.jpg",
+    "static/media/user5.jpg": "/presentation-of-the-final-project/static/media/user5.eeea73d78c62ece8d16f.jpg",
+    "static/media/user6.jpg": "/presentation-of-the-final-project/static/media/user6.93ff4c6f486b3f291768.jpg",
+    "static/media/user4.jpg": "/presentation-of-the-final-project/static/media/user4.0ca0da261f8e5e303fb5.jpg",
     "index.html": "/presentation-of-the-final-project/index.html",
     "main.9a1e7a7d.css.map": "/presentation-of-the-final-project/static/css/main.9a1e7a7d.css.map",
-    "main.f8b625c6.js.map": "/presentation-of-the-final-project/static/js/main.f8b625c6.js.map"
+    "main.872c916a.js.map": "/presentation-of-the-final-project/static/js/main.872c916a.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1e7a7d.css",
-    "static/js/main.f8b625c6.js"
+    "static/js/main.872c916a.js"
   ]
 }
