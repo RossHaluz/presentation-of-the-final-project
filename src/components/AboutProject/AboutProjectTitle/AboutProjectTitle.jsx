@@ -3,9 +3,12 @@ import { AboutProjectContainer } from './AboutProjectTitle.styled';
 
 const AboutProjectTitle = () => {
   return (
-    <AboutProjectContainer>
-      <SectionTitle num="01">About project</SectionTitle>
-    </AboutProjectContainer>
+    <>
+      <div id="about"></div>
+      <AboutProjectContainer>
+        <SectionTitle num="01">About project</SectionTitle>
+      </AboutProjectContainer>
+    </>
   );
 };
 

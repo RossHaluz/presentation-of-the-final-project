@@ -3,7 +3,7 @@ import vector from './icon/vector.png';
 
 const HeroBtn = () => {
   return (
-    <HeroLink href="">
+    <HeroLink href="#about">
       start the presentation
       <img src={vector} alt="Vector" width="16.5" height="16.5" />
     </HeroLink>

@@ -42,19 +42,15 @@ const TechnologiesUsed = () => {
           <TechnologiesUsedList>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>HTML/CSS</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>Node.js</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>JavaScript</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>Express</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>ReactJS</TechnologiesUsedItemText>
-            </TechnologiesUsedItem>
-            <TechnologiesUsedItem>
-              <Elipse></Elipse>
-              <TechnologiesUsedItemText>Material UI</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>MongoDB</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
           </TechnologiesUsedList>
         </TechnologiesUsedDescWrapper>
@@ -64,19 +60,19 @@ const TechnologiesUsed = () => {
           <TechnologiesUsedList>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>HTML/CSS</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>VSCode</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>JavaScript</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>Parcel</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>ReactJS</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>Figma</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
             <TechnologiesUsedItem>
               <Elipse></Elipse>
-              <TechnologiesUsedItemText>Material UI</TechnologiesUsedItemText>
+              <TechnologiesUsedItemText>Git/GitHub</TechnologiesUsedItemText>
             </TechnologiesUsedItem>
           </TechnologiesUsedList>
         </TechnologiesUsedDescWrapper>

@@ -28,7 +28,7 @@ const OurTeam = () => {
           <Img src={user1} alt="Member" width="316" height="422" />
           <OurTeamDescWrapper>
             <OurTeamName>Rostyslav Haluzinskyi</OurTeamName>
-            <OurTeamDesc>Team leader</OurTeamDesc>
+            <OurTeamDesc>Team leader - Fron-end</OurTeamDesc>
             <p>
               <strong>Full-stack developer</strong>
             </p>
@@ -57,24 +57,13 @@ const OurTeam = () => {
           </OurTeamDescWrapper>
         </OurTeamItem>
         <OurTeamItem>
-          <Img src={user4} alt="Member" width="316" height="422" />
-
-          <OurTeamDescWrapper>
-            <OurTeamName>Пилипчук Олександра</OurTeamName>
-            <OurTeamDesc>Team leader</OurTeamDesc>
-            <p>
-              <strong>Back-end</strong>
-            </p>
-          </OurTeamDescWrapper>
-        </OurTeamItem>
-        <OurTeamItem>
           <Img src={user5} alt="Member" width="316" height="422" />
 
           <OurTeamDescWrapper>
             <OurTeamName>Vlad</OurTeamName>
             <OurTeamDesc>Developer</OurTeamDesc>
             <p>
-              <strong>Front-end</strong>
+              <strong>Front-end developer</strong>
             </p>
           </OurTeamDescWrapper>
         </OurTeamItem>
@@ -85,7 +74,7 @@ const OurTeam = () => {
             <OurTeamName>Соколянський Ігор </OurTeamName>
             <OurTeamDesc>Developer</OurTeamDesc>
             <p>
-              <strong>Front-end</strong>
+              <strong>Front-end developer</strong>
             </p>
           </OurTeamDescWrapper>
         </OurTeamItem>
@@ -96,29 +85,7 @@ const OurTeam = () => {
             <OurTeamName>Denys Borysiuk</OurTeamName>
             <OurTeamDesc>Developer</OurTeamDesc>
             <p>
-              <strong>Front-end</strong>
-            </p>
-          </OurTeamDescWrapper>
-        </OurTeamItem>
-        <OurTeamItem>
-          <Img src={user8} alt="Member" width="316" height="422" />
-
-          <OurTeamDescWrapper>
-            <OurTeamName>Галина Данилко</OurTeamName>
-            <OurTeamDesc>Developer</OurTeamDesc>
-            <p>
-              <strong>Back-end</strong>
-            </p>
-          </OurTeamDescWrapper>
-        </OurTeamItem>
-        <OurTeamItem>
-          <Img src={user9} alt="Member" width="316" height="422" />
-
-          <OurTeamDescWrapper>
-            <OurTeamName>Микола Салюк</OurTeamName>
-            <OurTeamDesc>Developer</OurTeamDesc>
-            <p>
-              <strong>Back-end</strong>
+              <strong>Front-end developer</strong>
             </p>
           </OurTeamDescWrapper>
         </OurTeamItem>
@@ -129,7 +96,40 @@ const OurTeam = () => {
             <OurTeamName>Микола</OurTeamName>
             <OurTeamDesc>Developer</OurTeamDesc>
             <p>
-              <strong>Front-end</strong>
+              <strong>Front-end developer</strong>
+            </p>
+          </OurTeamDescWrapper>
+        </OurTeamItem>
+        <OurTeamItem>
+          <Img src={user4} alt="Member" width="316" height="422" />
+
+          <OurTeamDescWrapper>
+            <OurTeamName>Пилипчук Олександра</OurTeamName>
+            <OurTeamDesc>Team leader - Back-end</OurTeamDesc>
+            <p>
+              <strong>Back-end developer</strong>
+            </p>
+          </OurTeamDescWrapper>
+        </OurTeamItem>
+        <OurTeamItem>
+          <Img src={user8} alt="Member" width="316" height="422" />
+
+          <OurTeamDescWrapper>
+            <OurTeamName>Галина Данилко</OurTeamName>
+            <OurTeamDesc>Developer</OurTeamDesc>
+            <p>
+              <strong>Back-end developer</strong>
+            </p>
+          </OurTeamDescWrapper>
+        </OurTeamItem>
+        <OurTeamItem>
+          <Img src={user9} alt="Member" width="316" height="422" />
+
+          <OurTeamDescWrapper>
+            <OurTeamName>Микола Салюк</OurTeamName>
+            <OurTeamDesc>Developer</OurTeamDesc>
+            <p>
+              <strong>Back-end developer</strong>
             </p>
           </OurTeamDescWrapper>
         </OurTeamItem>
